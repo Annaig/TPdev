@@ -56,7 +56,7 @@
 	</plugins>
  </reporting>
  <scm>
-	<connection>scm:svn:svn://IPSERVEUR/repository1/monappli­web</connection>
-	<url>https://github.com/Annaig/TPdev.git</url>
+	<connection>scm:git:git://github.com/Annaig/TPdev.git</connection>
+	<url>https://github.com/Annaig/TPdev/tree/master</url>
 </scm>
 </project>
